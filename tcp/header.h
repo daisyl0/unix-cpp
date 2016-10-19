@@ -3,7 +3,7 @@
 
 #include	<sys/socket.h>	/* basic socket definitions */
 #include <netinet/in.h>
-#include <strings.h>
+#include <string.h>
 #include <arpa/inet.h>
 #include	<stdio.h>
 #include	<stdlib.h>
